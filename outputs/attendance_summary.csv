@@ -1,0 +1,11 @@
+student_id,student_name,attended,total_classes,attendance_pct,status
+S101,Aarav Sharma,10,10,100.0,Eligible
+S110,Tanvi Joshi,10,10,100.0,Eligible
+S104,Sneha Reddy,9,10,90.0,Eligible
+S105,Vikram Singh,9,10,90.0,Eligible
+S102,Ananya Patel,8,10,80.0,Eligible
+S106,Priya Nair,8,10,80.0,Eligible
+S103,Rohan Gupta,7,10,70.0,Shortage
+S107,Ishaan Verma,6,10,60.0,Shortage
+S108,Diya Mukherjee,5,10,50.0,Shortage
+S109,Kabir Mehta,4,10,40.0,Shortage
